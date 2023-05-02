@@ -18,7 +18,7 @@ Files can always be changed in a secret way. Can you find the flag? [cat.jpg](./
 
 First try to see if there's anything in the exif data of the file. This can be done through [this](https://29a.ch/photo-forensics/#strings) site or by running `exiftool cat.jpg` in the terminal.
 
-Notice that the License looks unusual, so `cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9` can be a base64 code. Decode it using [this](https://www.base64decode.org/) site or run `echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | base64 --decode` in the terminal.
+The license looks unusual, and upon further analysis, it seems that `cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9` is a base64 code. Decode it using [this](https://www.base64decode.org/) site or run `echo cGljb0NURnt0aGVfbTN0YWRhdGFfMXNfbW9kaWZpZWR9 | base64 --decode` in the terminal.
 
 ## Flag
 
