@@ -54,7 +54,9 @@ Feel free to open a pull request and add new solutions or edit existing ones!
 <details>
 <summary>Cryptography</summary>
 
-> *To be added*
+|Problems|Website|Points|
+|--------|------|-----|
+|[Mod 26](./Cryptography/Mod%2026/Mod%2026.md)|[picoCTF](https://play.picoctf.org/practice/challenge/144)|10|
 
 </details>
 
