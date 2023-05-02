@@ -9,10 +9,10 @@ Feel free to open a pull request and add new solutions or edit existing ones!
 |CATEGORY|ABOUT|
 |:------:|:---:|
 |Web Exploitation|Usually Involves `SQL Injection`, `Command Injection`, `Directory Traversal`, `XSS`, `Server Side Request Forgery`, and `Cross Site Request Forgery`|
-|Cryptography|XOR, Caesar Cipher, RSA, Stream Ciphers, Vigenere Cipher, Hashing Functions, Block Ciphers, Substitution Cipher.|
-|Binary Exploitation|Common topics addressed by Binary Exploitation are `Registers`, `The Stack`, `Buffers`, `Global Offset Table`, `Calling Conventions`, `Return Oriented Programming`, `Binary Security`, `The Heap`, `Format String Vulnerability`.|
-|Reverse Engineering|Usually involves `Assembly`, `C` , `Disassemblers`, and `Decompilers`.|
 |Forensics|Forensics is a way to recover data left on a computer. there are tons of methods out there to find deleted, unsaved, or worse, secretly recorded data. An important part of Forensics is having the right tools and being familiar with `file formats` , `EXIF data`, `WireShark`, `Steganography` , and `Disk Imaging`.|
+|Cryptography|XOR, Caesar Cipher, RSA, Stream Ciphers, Vigenere Cipher, Hashing Functions, Block Ciphers, Substitution Cipher.|
+|Reverse Engineering|Usually involves `Assembly`, `C` , `Disassemblers`, and `Decompilers`.|
+|Binary Exploitation|Common topics addressed by Binary Exploitation are `Registers`, `The Stack`, `Buffers`, `Global Offset Table`, `Calling Conventions`, `Return Oriented Programming`, `Binary Security`, `The Heap`, `Format String Vulnerability`.|
 
 ## Resources
 - https://picoctf.org/resources.html
