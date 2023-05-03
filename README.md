@@ -31,6 +31,7 @@ Feel free to open a pull request and add new solutions or edit existing ones!
 |--------|------|-----|
 |[Obedient Cat](./General%20Skills/Obedient%20Cat/Obedient%20Cat.md)|[picoCTF](https://play.picoctf.org/practice/challenge/147)|5|
 |[Wave a flag](./General%20Skills/Wave%20a%20flag/Wave%20a%20flag.md)|[picoCTF](https://play.picoctf.org/practice/challenge/170)|10|
+|[Python Wrangling](./General%20Skills/Python%20Wrangling/Python%20Wrangling.md)|[picoCTF](https://play.picoctf.org/practice/challenge/166)|10|
 
 
 </details>
