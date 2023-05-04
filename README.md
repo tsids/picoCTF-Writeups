@@ -39,7 +39,9 @@ Feel free to open a pull request and add new solutions or edit existing ones!
 <details>
 <summary>Web Exploitation</summary>
 
-> *To be added*
+|Problems|Website|Points|
+|--------|------|-----|
+|[GET aHEAD](./Web%20Exploitation/GET%20aHEAD/GET%20aHEAD.md)|[picoCTF](https://play.picoctf.org/practice/challenge/132)|20|
 
 </details>
 
