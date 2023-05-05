@@ -21,4 +21,4 @@ Run the python script in the terminal using `python3 ende.py` (or `py ende.py` f
 
 ## Flag
 
-picoCTF{4p0110_1n_7h3_h0us3_67c6cc96}
+`picoCTF{4p0110_1n_7h3_h0us3_67c6cc96}`

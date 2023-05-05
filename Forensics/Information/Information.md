@@ -22,4 +22,4 @@ The license looks unusual, and upon further analysis, it seems that `cGljb0NURnt
 
 ## Flag
 
-picoCTF{the_m3tadata_1s_modified}
+`picoCTF{the_m3tadata_1s_modified}`

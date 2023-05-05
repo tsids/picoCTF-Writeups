@@ -25,4 +25,4 @@ Alternatively, you can open the file in a text editor and ctrl + f for "picoCTF"
 
 ## Flag
 
-picoCTF{b1scu1ts_4nd_gr4vy_30e77291}
+`picoCTF{b1scu1ts_4nd_gr4vy_30e77291}`
