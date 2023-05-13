@@ -34,6 +34,7 @@ Feel free to open a pull request and add new solutions or edit existing ones!
 |[Python Wrangling](./General%20Skills/Python%20Wrangling/Python%20Wrangling.md)|[picoCTF](https://play.picoctf.org/practice/challenge/166)|10|
 |[Nice netcat...](./General%20Skills/Nice%20netcat.../Nice%20netcat....md)|[picoCTF](https://play.picoctf.org/practice/challenge/156)|15|
 |[Static ain't always noise](./General%20Skills/Static%20ain't%20always%20noise/Static%20ain't%20always%20noise.md)|[picoCTF](https://play.picoctf.org/practice/challenge/163)|20|
+|[Tab, Tab, Attack](./General%20Skills/Tab,%20Tab,%20Attack/Tab,%20Tab,%20Attack.md)|[picoCTF](https://play.picoctf.org/practice/challenge/176)|20|
 
 
 </details>
