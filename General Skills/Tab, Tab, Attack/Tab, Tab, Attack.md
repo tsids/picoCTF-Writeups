@@ -16,14 +16,14 @@ Using tabcomplete in the Terminal will add years to your life, esp. when dealing
 
 ## Solution
 
-Unzip the zip file using `unzip Addadshashanammu.zip`, and `cd` into each folder until you reach the file `fang-of-haynekhtnamet`. (Note: the hint suggests using the Tab key because Tab will autocomplete the `cd` command). Once you find the file, run the command `file fang-of-haynekhtnamet` and you'll see that the file is an executable.
+Unzip the zip file using `unzip Addadshashanammu.zip`, and use the `ls` and `cd` commands to navigate into each folder until you reach the file `fang-of-haynekhtnamet`. (Note: the hint suggests using the Tab key because Tab will autocomplete the `cd` command). Once you find the file, run the command `file fang-of-haynekhtnamet` and you'll see that the file is an executable.
 
 ```bash
 >>> file fang-of-haynekhtnamet
 fang-of-haynekhtnamet: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=5fffe70019957f0a27a70bb886b2cfb9f9b21d6e, not stripped
 ```
 
-Give the file executable permissions by running `chmod +x fang-of-haynekhtnamet`, then run the file by typing `./fang-of-haynekhtnamet`, and the flag will appear.
+Run the file by typing `./fang-of-haynekhtnamet`, and the flag will appear.
 
 ## Flag
 
