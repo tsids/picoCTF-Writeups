@@ -18,6 +18,10 @@ In RSA, a small `e` value can be problematic, but what about `N`? Can you decryp
 
 Use [this site](https://www.dcode.fr/rsa-cipher) to decrypt the RSA encryption.
 
+Check out these resources to learn more about RSA:
+- https://www.comparitech.com/blog/information-security/rsa-encryption/
+- https://math.stackexchange.com/questions/20157/rsa-in-plain-english
+
 ## Flag
 
 `picoCTF{sma11_N_n0_g0od_45369387}`
