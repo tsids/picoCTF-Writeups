@@ -57,6 +57,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |Problems|Website|Points|
 |--------|------|-----|
 |[Information](./Forensics/Information/Information.md)|[picoCTF](https://play.picoctf.org/practice/challenge/186)|10|
+|[Matryoshka doll](./Forensics/Matryoshka%20doll/Matryoshka%20doll.md)|[picoCTF](https://play.picoctf.org/practice/challenge/129?page=2)|30|
 
 </details>
 
