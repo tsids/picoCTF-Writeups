@@ -19,15 +19,15 @@ A one-time pad is unbreakable, but can you manage to recover the flag? (Wrap wit
 After connecting to the server, we get access to the encrypted flag. We can also send text to be encrypted. The encryption works by taking the flag and XORing it to a key. Normally, the encryption would be unbreakable if it was a one-time pad, but the `encrypt()` method loops the pad around after 50000 characters. We can use this to get back to the same position, and attempt to decrypt the key.
 
 ```py
-	if stop >= KEY_LEN:
-		stop = stop % KEY_LEN # pad loops
-		key = kf[start:] + kf[:stop]
-	else:
-		key = kf[start:stop]
-	key_location = stop
+if stop >= KEY_LEN:
+    stop = stop % KEY_LEN # pad loops once limit is reached
+    key = kf[start:] + kf[:stop]
+else:
+    key = kf[start:stop]
+key_location = stop
 ```
 
-First of all, we need to figure out the length of the key, so we know how far to loop around. Notice how the output of the encryption is in hex. This is because of the `x` identifier, which converts to hex. See [fstrings](https://docs.python.org/3.4/library/string.html#formatstrings) for the documentation on how this works.
+First of all, we need to figure out the length of the key, so we know how far to loop around. Notice how the output of the encryption is in hex. This is because of the `x` identifier, which converts to hex. See the [documentation](https://docs.python.org/3.4/library/string.html#formatstrings) for more information on how this works.
 
 ```py
 result = list(map(lambda p, k: "{:02x}".format(ord(p) ^ k), flag, key)) # changes output to hex because of the 'x'
