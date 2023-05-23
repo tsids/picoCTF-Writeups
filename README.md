@@ -69,6 +69,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |--------|------|-----|
 |[Mod 26](./Cryptography/Mod%2026/Mod%2026.md)|[picoCTF](https://play.picoctf.org/practice/challenge/144)|10|
 |[Mind your Ps and Qs](./Cryptography/Mind%20your%20Ps%20and%20Qs/Mind%20your%20Ps%20and%20Qs.md)|[picoCTF](https://play.picoctf.org/practice/challenge/162)|20|
+|[Easy Peasy](./Cryptography/Easy%20Peasy/Easy%20Peasy.md)|[picoCTF](https://play.picoctf.org/practice/challenge/125?page=2)|40|
 
 </details>
 
