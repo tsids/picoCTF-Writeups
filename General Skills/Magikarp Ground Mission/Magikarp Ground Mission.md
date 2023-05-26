@@ -18,7 +18,7 @@ Do you know how to move between directories and read files in the shell? Start t
 
 1. Open the WebShell on the right side of the window and login using your username and password.
 ![webshell](webshell.png)
-2. Launch the challenge instance and `ssh` into the challenge using `ssh ctf-player@venus.picoctf.net -p 57170`, then enter the password `b60940ca`
+2. Launch the challenge instance and `ssh` into the challenge using `ssh ctf-player@venus.picoctf.net -p 57170`, then enter the password `b60940ca`.
 3. Run `ls` to see the files in the current directory.
 ```sh
 ctf-player@pico-chall$ ls
