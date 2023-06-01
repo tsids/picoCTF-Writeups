@@ -83,6 +83,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |[Transformation](./Reverse%20Engineering/Transformation/Transformation.md)|[picoCTF](https://play.picoctf.org/practice/challenge/104)|20|
 |[keygenme-py](./Reverse%20Engineering/keygenme-py/keygenme-py.md)|[picoCTF](https://play.picoctf.org/practice/challenge/121?page=2)|30|
 |[crackme-py](./Reverse%20Engineering/crackme-py/crackme-py.md)|[picoCTF](https://play.picoctf.org/practice/challenge/175?page=2)|30|
+|[vault-door-training](./Reverse%20Engineering/vault-door-training/vault-door-training.md)|[picoCTF](https://play.picoctf.org/practice/challenge/7?page=2)|50|
 
 </details>
 
