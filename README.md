@@ -61,6 +61,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |--------|------|-----|
 |[Information](./Forensics/Information/Information.md)|[picoCTF](https://play.picoctf.org/practice/challenge/186)|10|
 |[Matryoshka doll](./Forensics/Matryoshka%20doll/Matryoshka%20doll.md)|[picoCTF](https://play.picoctf.org/practice/challenge/129?page=2)|30|
+|[Glory of the Garden](./Forensics/Glory%20of%20the%20Garden/Glory%20of%20the%20Garden.md)|[picoCTF](https://play.picoctf.org/practice/challenge/44?page=2)|50|
 
 </details>
 
