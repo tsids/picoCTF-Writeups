@@ -38,6 +38,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |[Static ain't always noise](./General%20Skills/Static%20ain't%20always%20noise/Static%20ain't%20always%20noise.md)|[picoCTF](https://play.picoctf.org/practice/challenge/163)|20|
 |[Tab, Tab, Attack](./General%20Skills/Tab,%20Tab,%20Attack/Tab,%20Tab,%20Attack.md)|[picoCTF](https://play.picoctf.org/practice/challenge/176)|20|
 |[Magikarp Ground Mission](./General%20Skills/Magikarp%20Ground%20Mission/Magikarp%20Ground%20Mission.md)|[picoCTF](https://play.picoctf.org/practice/challenge/189?page=2)|30|
+|[Lets Warm Up](./General%20Skills/Lets%20Warm%20Up/Lets%20Warm%20Up.md)|[picoCTF](https://play.picoctf.org/practice/challenge/22?page=2)|50|
 
 
 </details>
