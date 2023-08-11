@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=750&color=41F72E&width=435&lines=picoCTF+Solutions)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=750&color=41F72E&width=435&lines=picoCTF+Writeups)
 
 Navigate to the folder of the challenge you are looking for, and the solution can be found in `<Challenge Title>.md`. 
 
