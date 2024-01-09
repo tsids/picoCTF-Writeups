@@ -1,4 +1,4 @@
-# Mind your Ps and Qs
+# [Mind your Ps and Qs](https://play.picoctf.org/practice/challenge/162)
 
 ## Overview
 

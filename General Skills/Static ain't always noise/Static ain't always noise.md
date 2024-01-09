@@ -1,4 +1,4 @@
-# Static ain't always noise
+# [Static ain't always noise](https://play.picoctf.org/practice/challenge/163)
 
 ## Overview
 

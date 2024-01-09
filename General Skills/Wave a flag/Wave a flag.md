@@ -1,4 +1,4 @@
-# Wave a flag
+# [Wave a flag](https://play.picoctf.org/practice/challenge/170)
 
 ## Overview
 
