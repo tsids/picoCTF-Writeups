@@ -20,9 +20,13 @@ Open the pcap in WireShark and follow the TCP stream.
 
 ![TCP Stream](./tcp_stream.png)
 
-Switch to stream 5, and you'll see something that looks like the flag. Use rot13 to decode it.
+Switch to stream 5.
 
 ![Stream 5](./stream_5.png)
+
+You'll see something that looks like the flag. Use rot13 to decode it.
+
+> Gur synt vf cvpbPGS{c33xno00_1_f33_h_qrnqorrs}
 
 ## Flag
 
