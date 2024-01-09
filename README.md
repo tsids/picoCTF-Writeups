@@ -65,6 +65,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |[Matryoshka doll](./Forensics/Matryoshka%20doll/Matryoshka%20doll.md)|[picoCTF](https://play.picoctf.org/practice/challenge/129?page=2)|30|
 |[Glory of the Garden](./Forensics/Glory%20of%20the%20Garden/Glory%20of%20the%20Garden.md)|[picoCTF](https://play.picoctf.org/practice/challenge/44?page=2)|50|
 |[tunn3l v1s10n](./Forensics/tunn3l%20v1s10n/tunn3l%20v1s10n.md)|[picoCTF](https://play.picoctf.org/practice/challenge/112?page=2)|40|
+|[Wireshark doo dooo do doo...](./Forensics/Wireshark%20doo%20dooo%20do%20doo.../Wireshark%20doo%20dooo%20do%20doo....md)|[picoCTF](https://play.picoctf.org/practice/challenge/115?page=3)|50|
 
 </details>
 
