@@ -10,14 +10,7 @@
 
 We found a brand new type of encryption, can you break the secret code? (Wrap with picoCTF{}) `mlnklfnknljflfjljnjijjmmjkmljnjhmhjgjnjjjmmkjjmijhmkjhjpmkmkmljkjijnjpmhmjjgjj` [new\_caesar.py](./new\_caesar.py)
 
-## Hints
-
-1. How does the cipher work if the alphabet isn't 26 letters?
-2. Even though the letters are split up, the same paradigms still apply
-
-## Solution
-
-Python file:
+`new_caesar.py`:
 
 ```python
 import string
@@ -49,6 +42,15 @@ for i, c in enumerate(b16):
 	enc += shift(c, key[i % len(key)])
 print(enc)
 ```
+
+## Hints
+
+1. How does the cipher work if the alphabet isn't 26 letters?
+2. Even though the letters are split up, the same paradigms still apply
+
+## Solution
+
+The solution script is in [decode.py](./decode.py).
 
 Looking at the code, we can see that the `key` has to be a letter in `ALPHABET` (letters a through p) and the length of key is 1.
 
