@@ -55,6 +55,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |[Cookies](./Web%20Exploitation/Cookies/Cookies.md)|[picoCTF](https://play.picoctf.org/practice/challenge/173?page=2)|40|
 |[Insp3ct0r](./Web%20Exploitation/Insp3ct0r/Insp3ct0r.md)|[picoCTF](https://play.picoctf.org/practice/challenge/18?page=2)|50|
 |[Scavenger Hunt](./Web%20Exploitation/Scavenger%20Hunt/Scavenger%20Hunt.md)|[picoCTF](https://play.picoctf.org/practice/challenge/161?page=3)|50|
+|[Bookmarklet](./Web%20Exploitation/Bookmarklet/Bookmarklet.md)|[picoCTF](https://play.picoctf.org/practice/challenge/406?page=3)|50|
 
 </details>
 
