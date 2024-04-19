@@ -58,6 +58,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |[Insp3ct0r](./Web%20Exploitation/Insp3ct0r/Insp3ct0r.md)|[picoCTF](https://play.picoctf.org/practice/challenge/18)|50|
 |[Scavenger Hunt](./Web%20Exploitation/Scavenger%20Hunt/Scavenger%20Hunt.md)|[picoCTF](https://play.picoctf.org/practice/challenge/161)|50|
 |[Bookmarklet](./Web%20Exploitation/Bookmarklet/Bookmarklet.md)|[picoCTF](https://play.picoctf.org/practice/challenge/406)|50|
+|[WebDecode](./Web%20Exploitation/WebDecode/WebDecode.md)|[picoCTF](https://play.picoctf.org/practice/challenge/427)|50|
 
 </details>
 
