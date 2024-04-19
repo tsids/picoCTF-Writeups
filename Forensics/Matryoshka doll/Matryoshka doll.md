@@ -1,4 +1,4 @@
-# [Matryoshka doll](https://play.picoctf.org/practice/challenge/129?page=2)
+# [Matryoshka doll](https://play.picoctf.org/practice/challenge/129)
 
 ## Overview
 

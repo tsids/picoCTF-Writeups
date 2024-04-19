@@ -37,12 +37,12 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |[Nice netcat...](./General%20Skills/Nice%20netcat.../Nice%20netcat....md)|[picoCTF](https://play.picoctf.org/practice/challenge/156)|15|
 |[Static ain't always noise](./General%20Skills/Static%20ain't%20always%20noise/Static%20ain't%20always%20noise.md)|[picoCTF](https://play.picoctf.org/practice/challenge/163)|20|
 |[Tab, Tab, Attack](./General%20Skills/Tab,%20Tab,%20Attack/Tab,%20Tab,%20Attack.md)|[picoCTF](https://play.picoctf.org/practice/challenge/176)|20|
-|[Magikarp Ground Mission](./General%20Skills/Magikarp%20Ground%20Mission/Magikarp%20Ground%20Mission.md)|[picoCTF](https://play.picoctf.org/practice/challenge/189?page=2)|30|
-|[Lets Warm Up](./General%20Skills/Lets%20Warm%20Up/Lets%20Warm%20Up.md)|[picoCTF](https://play.picoctf.org/practice/challenge/22?page=2)|50|
-|[Warmed Up](./General%20Skills/Warmed%20Up/Warmed%20Up.md)|[picoCTF](https://play.picoctf.org/practice/challenge/58?page=3)|50|
-|[2Warm](./General%20Skills/2Warm/2Warm.md)|[picoCTF](https://play.picoctf.org/practice/challenge/86?page=3)|50|
-|[Super SSH](./General%20Skills/Super%20SSH/Super%20SSH.md)|[picoCTF](https://play.picoctf.org/practice/challenge/424?page=2)|25|
-|[Commitment Issues](./General%20Skills/Commitment%20Issues/Commitment%20Issues.md)|[picoCTF](https://play.picoctf.org/practice/challenge/411?page=3)|50|
+|[Magikarp Ground Mission](./General%20Skills/Magikarp%20Ground%20Mission/Magikarp%20Ground%20Mission.md)|[picoCTF](https://play.picoctf.org/practice/challenge/189)|30|
+|[Lets Warm Up](./General%20Skills/Lets%20Warm%20Up/Lets%20Warm%20Up.md)|[picoCTF](https://play.picoctf.org/practice/challenge/22)|50|
+|[Warmed Up](./General%20Skills/Warmed%20Up/Warmed%20Up.md)|[picoCTF](https://play.picoctf.org/practice/challenge/58)|50|
+|[2Warm](./General%20Skills/2Warm/2Warm.md)|[picoCTF](https://play.picoctf.org/practice/challenge/86)|50|
+|[Super SSH](./General%20Skills/Super%20SSH/Super%20SSH.md)|[picoCTF](https://play.picoctf.org/practice/challenge/424)|25|
+|[Commitment Issues](./General%20Skills/Commitment%20Issues/Commitment%20Issues.md)|[picoCTF](https://play.picoctf.org/practice/challenge/411)|50|
 
 
 </details>
@@ -53,10 +53,10 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |Problems|Website|Points|
 |--------|------|-----|
 |[GET aHEAD](./Web%20Exploitation/GET%20aHEAD/GET%20aHEAD.md)|[picoCTF](https://play.picoctf.org/practice/challenge/132)|20|
-|[Cookies](./Web%20Exploitation/Cookies/Cookies.md)|[picoCTF](https://play.picoctf.org/practice/challenge/173?page=2)|40|
-|[Insp3ct0r](./Web%20Exploitation/Insp3ct0r/Insp3ct0r.md)|[picoCTF](https://play.picoctf.org/practice/challenge/18?page=2)|50|
-|[Scavenger Hunt](./Web%20Exploitation/Scavenger%20Hunt/Scavenger%20Hunt.md)|[picoCTF](https://play.picoctf.org/practice/challenge/161?page=3)|50|
-|[Bookmarklet](./Web%20Exploitation/Bookmarklet/Bookmarklet.md)|[picoCTF](https://play.picoctf.org/practice/challenge/406?page=3)|50|
+|[Cookies](./Web%20Exploitation/Cookies/Cookies.md)|[picoCTF](https://play.picoctf.org/practice/challenge/173)|40|
+|[Insp3ct0r](./Web%20Exploitation/Insp3ct0r/Insp3ct0r.md)|[picoCTF](https://play.picoctf.org/practice/challenge/18)|50|
+|[Scavenger Hunt](./Web%20Exploitation/Scavenger%20Hunt/Scavenger%20Hunt.md)|[picoCTF](https://play.picoctf.org/practice/challenge/161)|50|
+|[Bookmarklet](./Web%20Exploitation/Bookmarklet/Bookmarklet.md)|[picoCTF](https://play.picoctf.org/practice/challenge/406)|50|
 
 </details>
 
@@ -66,11 +66,11 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |Problems|Website|Points|
 |--------|------|-----|
 |[Information](./Forensics/Information/Information.md)|[picoCTF](https://play.picoctf.org/practice/challenge/186)|10|
-|[Matryoshka doll](./Forensics/Matryoshka%20doll/Matryoshka%20doll.md)|[picoCTF](https://play.picoctf.org/practice/challenge/129?page=2)|30|
-|[Glory of the Garden](./Forensics/Glory%20of%20the%20Garden/Glory%20of%20the%20Garden.md)|[picoCTF](https://play.picoctf.org/practice/challenge/44?page=2)|50|
-|[tunn3l v1s10n](./Forensics/tunn3l%20v1s10n/tunn3l%20v1s10n.md)|[picoCTF](https://play.picoctf.org/practice/challenge/112?page=2)|40|
-|[Wireshark doo dooo do doo...](./Forensics/Wireshark%20doo%20dooo%20do%20doo.../Wireshark%20doo%20dooo%20do%20doo....md)|[picoCTF](https://play.picoctf.org/practice/challenge/115?page=3)|50|
-|[MacroHard WeakEdge](./Forensics/MacroHard%20WeakEdge/MacroHard%20WeakEdge.md)|[picoCTF](https://play.picoctf.org/practice/challenge/130?page=3)|60|
+|[Matryoshka doll](./Forensics/Matryoshka%20doll/Matryoshka%20doll.md)|[picoCTF](https://play.picoctf.org/practice/challenge/129)|30|
+|[Glory of the Garden](./Forensics/Glory%20of%20the%20Garden/Glory%20of%20the%20Garden.md)|[picoCTF](https://play.picoctf.org/practice/challenge/44)|50|
+|[tunn3l v1s10n](./Forensics/tunn3l%20v1s10n/tunn3l%20v1s10n.md)|[picoCTF](https://play.picoctf.org/practice/challenge/112)|40|
+|[Wireshark doo dooo do doo...](./Forensics/Wireshark%20doo%20dooo%20do%20doo.../Wireshark%20doo%20dooo%20do%20doo....md)|[picoCTF](https://play.picoctf.org/practice/challenge/115)|50|
+|[MacroHard WeakEdge](./Forensics/MacroHard%20WeakEdge/MacroHard%20WeakEdge.md)|[picoCTF](https://play.picoctf.org/practice/challenge/130)|60|
 
 </details>
 
@@ -81,10 +81,10 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |--------|------|-----|
 |[Mod 26](./Cryptography/Mod%2026/Mod%2026.md)|[picoCTF](https://play.picoctf.org/practice/challenge/144)|10|
 |[Mind your Ps and Qs](./Cryptography/Mind%20your%20Ps%20and%20Qs/Mind%20your%20Ps%20and%20Qs.md)|[picoCTF](https://play.picoctf.org/practice/challenge/162)|20|
-|[Easy Peasy](./Cryptography/Easy%20Peasy/Easy%20Peasy.md)|[picoCTF](https://play.picoctf.org/practice/challenge/125?page=2)|40|
-|[The Numbers](./Cryptography/The%20Numbers/The%20Numbers.md)|[picoCTF](https://play.picoctf.org/practice/challenge/68?page=3)|50|
-|[New Caesar](./Cryptography/New%20Caesar/New%20Caesar.md)|[picoCTF](https://play.picoctf.org/practice/challenge/158?page=3)|60|
-|[interencdec](./Cryptography/interencdec/interencdec.md)|[picoCTF](https://play.picoctf.org/practice/challenge/418?page=3)|50|
+|[Easy Peasy](./Cryptography/Easy%20Peasy/Easy%20Peasy.md)|[picoCTF](https://play.picoctf.org/practice/challenge/125)|40|
+|[The Numbers](./Cryptography/The%20Numbers/The%20Numbers.md)|[picoCTF](https://play.picoctf.org/practice/challenge/68)|50|
+|[New Caesar](./Cryptography/New%20Caesar/New%20Caesar.md)|[picoCTF](https://play.picoctf.org/practice/challenge/158)|60|
+|[interencdec](./Cryptography/interencdec/interencdec.md)|[picoCTF](https://play.picoctf.org/practice/challenge/418)|50|
 
 </details>
 
@@ -94,12 +94,12 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |Problems|Website|Points|
 |--------|------|-----|
 |[Transformation](./Reverse%20Engineering/Transformation/Transformation.md)|[picoCTF](https://play.picoctf.org/practice/challenge/104)|20|
-|[keygenme-py](./Reverse%20Engineering/keygenme-py/keygenme-py.md)|[picoCTF](https://play.picoctf.org/practice/challenge/121?page=2)|30|
-|[crackme-py](./Reverse%20Engineering/crackme-py/crackme-py.md)|[picoCTF](https://play.picoctf.org/practice/challenge/175?page=2)|30|
-|[vault-door-training](./Reverse%20Engineering/vault-door-training/vault-door-training.md)|[picoCTF](https://play.picoctf.org/practice/challenge/7?page=2)|50|
-|[ARMssembly 0](./Reverse%20Engineering/ARMssembly%200/ARMssembly%200.md)|[picoCTF](https://play.picoctf.org/practice/challenge/160?page=2)|40|
-|[Shop](./Reverse%20Engineering/Shop/Shop.md)|[picoCTF](https://play.picoctf.org/practice/challenge/134?page=3)|50|
-|[speeds and feeds](./Reverse%20Engineering/speeds%20and%20feeds/speeds%20and%20feeds.md)|[picoCTF](https://play.picoctf.org/practice/challenge/116?page=3)|50|
+|[keygenme-py](./Reverse%20Engineering/keygenme-py/keygenme-py.md)|[picoCTF](https://play.picoctf.org/practice/challenge/121)|30|
+|[crackme-py](./Reverse%20Engineering/crackme-py/crackme-py.md)|[picoCTF](https://play.picoctf.org/practice/challenge/175)|30|
+|[vault-door-training](./Reverse%20Engineering/vault-door-training/vault-door-training.md)|[picoCTF](https://play.picoctf.org/practice/challenge/7)|50|
+|[ARMssembly 0](./Reverse%20Engineering/ARMssembly%200/ARMssembly%200.md)|[picoCTF](https://play.picoctf.org/practice/challenge/160)|40|
+|[Shop](./Reverse%20Engineering/Shop/Shop.md)|[picoCTF](https://play.picoctf.org/practice/challenge/134)|50|
+|[speeds and feeds](./Reverse%20Engineering/speeds%20and%20feeds/speeds%20and%20feeds.md)|[picoCTF](https://play.picoctf.org/practice/challenge/116)|50|
 
 </details>
 

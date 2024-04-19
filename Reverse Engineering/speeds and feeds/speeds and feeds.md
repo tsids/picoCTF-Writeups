@@ -1,4 +1,4 @@
-# [speeds and feeds](https://play.picoctf.org/practice/challenge/116?page=3)
+# [speeds and feeds](https://play.picoctf.org/practice/challenge/116)
 
 ## Overview
 

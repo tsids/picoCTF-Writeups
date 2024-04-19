@@ -1,4 +1,4 @@
-# [Commitment Issues](https://play.picoctf.org/practice/challenge/411?page=3)
+# [Commitment Issues](https://play.picoctf.org/practice/challenge/411)
 
 ## Overview
 

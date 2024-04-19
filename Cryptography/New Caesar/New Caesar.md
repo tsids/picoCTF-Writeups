@@ -1,4 +1,4 @@
-# [New Caesar](https://play.picoctf.org/practice/challenge/158?page=3)
+# [New Caesar](https://play.picoctf.org/practice/challenge/158)
 
 ## Overview
 

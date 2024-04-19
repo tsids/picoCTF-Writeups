@@ -1,4 +1,4 @@
-# [Wireshark doo dooo do doo...](https://play.picoctf.org/practice/challenge/115?page=3)
+# [Wireshark doo dooo do doo...](https://play.picoctf.org/practice/challenge/115)
 
 ## Overview
 

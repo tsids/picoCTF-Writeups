@@ -1,4 +1,4 @@
-# [Easy Peasy](https://play.picoctf.org/practice/challenge/125?page=2)
+# [Easy Peasy](https://play.picoctf.org/practice/challenge/125)
 
 ## Overview
 

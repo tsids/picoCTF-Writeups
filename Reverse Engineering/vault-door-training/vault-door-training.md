@@ -1,4 +1,4 @@
-# [vault-door-training](https://play.picoctf.org/practice/challenge/7?page=2)
+# [vault-door-training](https://play.picoctf.org/practice/challenge/7)
 
 ## Overview
 

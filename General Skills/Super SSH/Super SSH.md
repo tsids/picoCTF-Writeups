@@ -1,4 +1,4 @@
-# [Super SSH](https://play.picoctf.org/practice/challenge/424?page=2)
+# [Super SSH](https://play.picoctf.org/practice/challenge/424)
 
 ## Overview
 

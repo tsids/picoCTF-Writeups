@@ -1,4 +1,4 @@
-# [interencdec](https://play.picoctf.org/practice/challenge/418?page=3)
+# [interencdec](https://play.picoctf.org/practice/challenge/418)
 
 ## Overview
 

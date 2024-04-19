@@ -1,4 +1,4 @@
-# [Warmed Up](https://play.picoctf.org/practice/challenge/58?page=3)
+# [Warmed Up](https://play.picoctf.org/practice/challenge/58)
 
 ## Overview
 

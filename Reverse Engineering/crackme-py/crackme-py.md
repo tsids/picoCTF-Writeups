@@ -1,4 +1,4 @@
-# [crackme-py](https://play.picoctf.org/practice/challenge/175?page=2)
+# [crackme-py](https://play.picoctf.org/practice/challenge/175)
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# [Shop](https://play.picoctf.org/practice/challenge/134?page=3)
+# [Shop](https://play.picoctf.org/practice/challenge/134)
 
 ## Overview
 

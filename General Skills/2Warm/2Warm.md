@@ -1,4 +1,4 @@
-# [2Warm](https://play.picoctf.org/practice/challenge/86?page=3)
+# [2Warm](https://play.picoctf.org/practice/challenge/86)
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# [The Numbers](https://play.picoctf.org/practice/challenge/68?page=3)
+# [The Numbers](https://play.picoctf.org/practice/challenge/68)
 
 ## Overview
 
