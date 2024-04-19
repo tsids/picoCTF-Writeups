@@ -9,7 +9,7 @@
 ## Description
 
 Using a Secure Shell (SSH) is going to be pretty important.
-Can you `ssh` as `ctf-player` to `titan.picoctf.net` at port `65218` to get the flag? You'll also need the password `84b12bae`. If asked, accept the fingerprint with `yes`.
+Can you `ssh` as `ctf-player` to `titan.picoctf.net` at port `<port>` to get the flag? You'll also need the password `84b12bae`. If asked, accept the fingerprint with `yes`.
 
 If your device doesn't have a shell, you can use: https://webshell.picoctf.org
 
