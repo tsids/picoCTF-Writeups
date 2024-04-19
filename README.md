@@ -111,5 +111,6 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |Problems|Website|Points|
 |--------|------|-----|
 |[Stonks](./Binary%20Exploitation/Stonks/Stonks.md)|[picoCTF](https://play.picoctf.org/practice/challenge/105)|20|
+|[format string 0](./Binary%20Exploitation/format%20string%200/format%20string%200.md)|[picoCTF](https://play.picoctf.org/practice/challenge/433)|50|
 
 </details>
