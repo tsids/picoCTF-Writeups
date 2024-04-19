@@ -25,7 +25,7 @@ $ cat enc_flag | base64 -d
 b'd3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrX2kyMDRoa2o2fQ=='
 ```
 
-We see that the output is a string that looks like another base64 encoded string. Decode it again to get the flag.
+The output looks like another base64 encoded string. Decode it again.
 
 ```bash
 $ echo "d3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrX2kyMDRoa2o2fQ==" | base64 -d
