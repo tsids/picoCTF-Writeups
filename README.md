@@ -74,6 +74,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |[Wireshark doo dooo do doo...](./Forensics/Wireshark%20doo%20dooo%20do%20doo.../Wireshark%20doo%20dooo%20do%20doo....md)|[picoCTF](https://play.picoctf.org/practice/challenge/115)|50|
 |[MacroHard WeakEdge](./Forensics/MacroHard%20WeakEdge/MacroHard%20WeakEdge.md)|[picoCTF](https://play.picoctf.org/practice/challenge/130)|60|
 |[Scan Surprise](./Forensics/Scan%20Surprise/Scan%20Surprise.md)|[picoCTF](https://play.picoctf.org/practice/challenge/444)|50|
+|[Verify](./Forensics/Verify/Verify.md)|[picoCTF](https://play.picoctf.org/practice/challenge/450)|50|
 
 </details>
 
