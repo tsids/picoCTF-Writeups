@@ -104,6 +104,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |[ARMssembly 0](./Reverse%20Engineering/ARMssembly%200/ARMssembly%200.md)|[picoCTF](https://play.picoctf.org/practice/challenge/160)|40|
 |[Shop](./Reverse%20Engineering/Shop/Shop.md)|[picoCTF](https://play.picoctf.org/practice/challenge/134)|50|
 |[speeds and feeds](./Reverse%20Engineering/speeds%20and%20feeds/speeds%20and%20feeds.md)|[picoCTF](https://play.picoctf.org/practice/challenge/116)|50|
+|[ARMssembly 1](./Reverse%20Engineering/ARMssembly%201/ARMssembly%201.md)|[picoCTF](https://play.picoctf.org/practice/challenge/111)|70|
 
 </details>
 
