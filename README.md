@@ -59,6 +59,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |[Scavenger Hunt](./Web%20Exploitation/Scavenger%20Hunt/Scavenger%20Hunt.md)|[picoCTF](https://play.picoctf.org/practice/challenge/161)|50|
 |[Bookmarklet](./Web%20Exploitation/Bookmarklet/Bookmarklet.md)|[picoCTF](https://play.picoctf.org/practice/challenge/406)|50|
 |[WebDecode](./Web%20Exploitation/WebDecode/WebDecode.md)|[picoCTF](https://play.picoctf.org/practice/challenge/427)|50|
+|[Some Assembly Required 1](./Web%20Exploitation/Some%20Assembly%20Required%201/Some%20Assembly%20Required%201.md)|[picoCTF](https://play.picoctf.org/practice/challenge/152)|70|
 
 </details>
 
