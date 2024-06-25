@@ -90,6 +90,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 |[The Numbers](./Cryptography/The%20Numbers/The%20Numbers.md)|[picoCTF](https://play.picoctf.org/practice/challenge/68)|50|
 |[New Caesar](./Cryptography/New%20Caesar/New%20Caesar.md)|[picoCTF](https://play.picoctf.org/practice/challenge/158)|60|
 |[interencdec](./Cryptography/interencdec/interencdec.md)|[picoCTF](https://play.picoctf.org/practice/challenge/418)|50|
+|[Mini RSA](./Cryptography/Mini%20RSA/Mini%20RSA.md)|[picoCTF](https://play.picoctf.org/practice/challenge/188)|70|
 
 </details>
 
