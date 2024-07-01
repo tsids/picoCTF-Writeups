@@ -48,6 +48,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 | [Binary Search](./General%20Skills/Binary%20Search/Binary%20Search.md)                                             | [picoCTF](https://play.picoctf.org/practice/challenge/442) | Easy       | picoCTF 2024 |        |
 |[endianness](./General%20Skills/endianness/endianness.md)|[picoCTF](https://play.picoctf.org/practice/challenge/414)|Easy|picoCTF 2024||
 |[Collaborative Development](./General%20Skills/Collaborative%20Development/Collaborative%20Development.md)|[picoCTF](https://play.picoctf.org/practice/challenge/410)|Easy|picoCTF 2024||
+|[Blame Game](./General%20Skills/Blame%20Game/Blame%20Game.md)|[picoCTF](https://play.picoctf.org/practice/challenge/405)|Easy|picoCTF 2024||
 
 
 </details>
