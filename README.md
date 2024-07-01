@@ -47,6 +47,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 | [Time Machine](./General%20Skills/Time%20Machine/Time%20Machine.md)                                                | [picoCTF](https://play.picoctf.org/practice/challenge/425) | Easy       | picoCTF 2024 | 50     |
 | [Binary Search](./General%20Skills/Binary%20Search/Binary%20Search.md)                                             | [picoCTF](https://play.picoctf.org/practice/challenge/442) | Easy       | picoCTF 2024 |        |
 |[endianness](./General%20Skills/endianness/endianness.md)|[picoCTF](https://play.picoctf.org/practice/challenge/414)|Easy|picoCTF 2024||
+|[Collaborative Development](./General%20Skills/Collaborative%20Development/Collaborative%20Development.md)|[picoCTF](https://play.picoctf.org/practice/challenge/410)|Easy|picoCTF 2024||
 
 
 </details>
