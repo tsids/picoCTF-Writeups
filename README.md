@@ -65,6 +65,7 @@ If you'd like to try some of these problems yourself, head over to the [PicoGym]
 | [Bookmarklet](./Web%20Exploitation/Bookmarklet/Bookmarklet.md)                                                    | [picoCTF](https://play.picoctf.org/practice/challenge/406) | Easy       | picoCTF 2024 | 50     |
 | [WebDecode](./Web%20Exploitation/WebDecode/WebDecode.md)                                                          | [picoCTF](https://play.picoctf.org/practice/challenge/427) | Easy       | picoCTF 2024 | 50     |
 | [Some Assembly Required 1](./Web%20Exploitation/Some%20Assembly%20Required%201/Some%20Assembly%20Required%201.md) | [picoCTF](https://play.picoctf.org/practice/challenge/152) | Easy       | picoCTF 2021 | 70     |
+|[Unminify](./Web%20Exploitation/Unminify/Unminify.md)|[picoCTF](https://play.picoctf.org/practice/challenge/426)|Easy|picoCTF 2024||
 
 </details>
 
